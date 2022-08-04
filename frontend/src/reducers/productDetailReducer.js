@@ -6,7 +6,6 @@ import {
 
 const initialState = {
   product: { reviews: [] },
-  loading: false,
   error: '',
 };
 
